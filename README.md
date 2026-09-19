@@ -1,4 +1,4 @@
-Haan bhai 😭 **sirf README ke liye ye poora block copy-paste karna hai**. `README.md` mein jo bhi hai, **Ctrl+A → delete → ye paste**:
+
 
 ````markdown
 # 🩺 Medical Chatbot
